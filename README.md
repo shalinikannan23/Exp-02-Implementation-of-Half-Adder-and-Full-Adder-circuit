@@ -1,4 +1,5 @@
 NAME: SHALINI.K
+
 REGISTER NO: 212222240095
 
 # Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit 
@@ -62,6 +63,7 @@ endmodule
 ### TRUTH TABLE :
 
 ![image](https://github.com/shalinikannan23/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118656529/071d70fb-4c92-40e9-baaa-f56274f27c3e)
+
 ![image](https://github.com/shalinikannan23/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118656529/a396217f-e601-47ce-b321-17cefd322fb3)
 
 ## RTL REALIZATION:
